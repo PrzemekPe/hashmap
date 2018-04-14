@@ -23,6 +23,7 @@ public class Main {
             int key = entry.getKey();
             String value = entry.getValue();
             System.out.println("\nKey " + key + " is for value " + value);
+            System.out.println();
         }
 
         }
